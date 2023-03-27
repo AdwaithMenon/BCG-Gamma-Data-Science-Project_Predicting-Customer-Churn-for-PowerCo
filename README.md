@@ -39,7 +39,7 @@ The objective of this project is to create a classification model capable of det
 
 * The chosen approach for tackling this problem involves implementing a Random Forest Classifier. Falling under the category of ensemble algorithms, the Forest is composed of multiple Decision Trees, which are tree-based learning algorithms. The strength of an ensemble algorithm is attributed to the laws of averaging, weak learners, and the central limit theorem.
 
-* A Total Accuracy of 0.9 and a Precision of 0.8 were achieved on the Test Set using the Random Forest Classifier.
+* A Total Accuracy of **0.9** and a Precision of **0.8** were achieved on the Test Set using the Random Forest Classifier.
 
 
 ## **Feature Importance**
@@ -60,4 +60,4 @@ The objective of this project is to create a classification model capable of det
 
     > Is churn driven by the customers' price sensitivity?
 
-After analyzing the feature importances, it appears that the feature in question (price sensitivity) does not have a significant impact on the model's performance and can be considered a minor factor. Nonetheless, further experimentation is necessary to make a definitive conclusion.
+After analyzing the feature importances, it appears that the **feature in question (price sensitivity) does not have a significant impact on the model's performance and can be considered a minor factor**. Nonetheless, further experimentation is necessary to make a definitive conclusion.
