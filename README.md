@@ -49,4 +49,15 @@ The objective of this project is to create a classification model capable of det
 <img width="739" alt="image" src="https://user-images.githubusercontent.com/70052374/228014585-ca6048d1-1531-4c98-b509-25d3c10609be.png">
 
 
+* In this model, net margin and consumption over a 12-month period are the primary factors that drive churn.
 
+* Margin on power subscription also has a significant impact on churn.
+
+* Price sensitivity features are present in the model but do not have a significant impact on customer churn.
+
+
+## **Testing the Hypothesis**
+
+    > Is churn driven by the customers' price sensitivity?
+
+After analyzing the feature importances, it appears that the feature in question (price sensitivity) does not have a significant impact on the model's performance and can be considered a minor factor. Nonetheless, further experimentation is necessary to make a definitive conclusion.
