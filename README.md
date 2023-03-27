@@ -35,6 +35,17 @@ The objective of this project is to create a classification model capable of det
 * The distribution is righ-skewed. Majority of the clients have a total consumption of less than 100000 in the last 12 months.
 
 
+## **About the Model**
+
+* The chosen approach for tackling this problem involves implementing a Random Forest Classifier. Falling under the category of ensemble algorithms, the Forest is composed of multiple Decision Trees, which are tree-based learning algorithms. The strength of an ensemble algorithm is attributed to the laws of averaging, weak learners, and the central limit theorem.
+
+* A Total Accuracy of 0.9 and a Precision of 0.8 were achieved on the Test Set.
+
 
 ## **Feature Importance**
+
+* Feature importances convey the significance of a feature in the predictive model. In the case of Random Forest, the feature importance is a measure of how frequently each feature is employed for splitting across all the trees.
+
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/70052374/228014585-ca6048d1-1531-4c98-b509-25d3c10609be.png">
+
 
