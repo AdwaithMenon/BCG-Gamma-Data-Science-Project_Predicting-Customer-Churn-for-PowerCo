@@ -49,7 +49,7 @@ The objective of this project is to create a classification model capable of det
 <img width="739" alt="image" src="https://user-images.githubusercontent.com/70052374/228014585-ca6048d1-1531-4c98-b509-25d3c10609be.png">
 
 
-* In this model, net margin and consumption over a 12-month period are the primary factors that drive churn.
+* In this model, total net margin and consumption over a 12-month period are the primary factors that drive churn.
 
 * Margin on power subscription also has a significant impact on churn.
 
