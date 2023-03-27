@@ -1,1 +1,1 @@
-# BCG Gamma Data Science Project: Predicting Customer Churn for PowerCo Utility Company
+# _BCG Gamma Data Science Project: Predicting Customer Churn for PowerCo Utility Company_
